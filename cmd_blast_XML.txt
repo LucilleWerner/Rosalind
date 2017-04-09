@@ -1,0 +1,1 @@
+xjc -d C:\Users\Heleen\IdeaProjects\BLAST\src -p blast -dtd "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd"
